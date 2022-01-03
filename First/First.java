@@ -373,14 +373,61 @@ public void fifth5() {
     			  System.out.println(i + " °ª");
               i++;
     		  }
-    		  
-    		  
-    		  
-    		  
-    		  
+	  
     	  }
  
- 
+          public void testplease5() {
+        	  for (int i = 2; i < 9; i++) {
+        		  System.out.println(i +"´Ü" );
+        	  }
+        	  
+        	  
+        	  
+        	  
+        	  
+        	  
+        	  
+        	  
+        	  
+        	  
+        	  
+        	  
+        	  
+        	  
+        	  
+        	  
+        	  
+          }
+    	  
+    	  
+    	  
+    	  
+    	  
+    	  
+    	  
+    	  
+    	  
+    	  
+    	  
+    	  
+    	  
+    	  
+    	  
+    	  
+    	  
+    	  
+    	  
+    	  
+    	  
+    	  
+    	  
+    	  
+    	  
+    	  
+    	  
+    	  
+    	  
+    	  
  
  
  }

@@ -6,10 +6,11 @@ public class RUN {
 		conditional co = new conditional();
 		//co.teseIf();
 		//co.testSwitch();
-		co.testExample2();
-		
-		
-		
+		//co.testExample2();
+		//co.testBreak();
+		//co.testContinue();
+		//co.testGugudan2();
+		co.testGugudan3();
 		
 		
 		
