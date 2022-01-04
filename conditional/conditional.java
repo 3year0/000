@@ -219,23 +219,34 @@ public class conditional {
 		    }
 			}
 				
-			
 		    public void testGugudan3() {
-		    //while문으로 구구단 홀수곱만 구현	
-		    int i = 2;
-		    while(i < 10) {
-		    	System.out.println("===" + i +"===단");
-		    	int j = 0;
-			    while(j < 10) {
-			    	j++;
-			    	if( j % 2 == 0) continue;
-			    	System.out.println(i + "x" + j +"=" + i*j);
-			    	
+			    //while문으로 구구단 홀수곱만 구현	
+			    int i = 2;
+			    while(i < 10) {
+			    	System.out.println("===" + i +"===단");
+			    	int j = 0;
+				    while(j < 10) {
+				    	j++;
+				    	if( j % 2 == 0) continue;
+				    	System.out.println(i + "x" + j +"=" + i*j);
+				    	
+				    }
+				    i++;
 			    }
-			    i++;
+			   }
+			 
+	
+		    public void testStar2() {
+		    	//공백
+		    	for(int i = 3; i < 0 ; i --) {		    		
+		    			for(int j = 5; j < 0 ; j--) {
+		    				System.out.print("*");
+		    			}
+		    			System.out.print(" ");
+		    	}
 		    	
-		    }
-		 
+		    	
+		    	
 		    
 		
 				

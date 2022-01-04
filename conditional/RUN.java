@@ -10,8 +10,8 @@ public class RUN {
 		//co.testBreak();
 		//co.testContinue();
 		//co.testGugudan2();
-		co.testGugudan3();
-		
+		//co.testGugudan3();
+		co.testStar2();
 		
 		
 		
