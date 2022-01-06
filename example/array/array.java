@@ -64,23 +64,29 @@ public class array {
 				break;
 			}
 		}
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+
 	}
+	
+	public void arrayPractice3() {
+		
+		int[][] arr = new int[3][3];
+			for(int i = 0; i < arr.length; i++) {
+				for(int j = 0; j < arr[i].length; j++) {
+					arr[i][j] = j;
+				}
+				System.out.println("i =" +i );
+			}
+	
+	
+	}
+	
+	
+	
+	
+	
+	
+	
+	
 	
 
 		

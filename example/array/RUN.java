@@ -6,7 +6,8 @@ public class RUN {
 		array ar = new array();
 			
 			//ar.arrayPractice();
-			ar.arrayPractice2();
+			//ar.arrayPractice2();
+			  ar.arrayPractice3();
 			
 		
 			

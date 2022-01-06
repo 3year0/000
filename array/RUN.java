@@ -8,8 +8,8 @@ public class RUN {
 		//ar.testShallowCopy();
 		//ar.testDeepCopy();
 		//ar.testDeepCopy2();
-		ar.testDeepCopy3();
-		
+		//ar.testDeepCopy3();
+		ar.testDemensionArray();
 		
 		
 		
